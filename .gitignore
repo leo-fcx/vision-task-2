@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env/
+.envrc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset / outputs
+data/detected_phones/
+data/processed/
+data/interim/
+*.csv
+*.h5
+*.keras
+*.tfrecord
+*.npz
+
+# Logs and caches
+*.log
+*.tmp
+*.cache/
+.cache/
+*.pickle
+*.pkl
+*.joblib
+*.pt
+
+# Model weights (use with caution — if not custom, better exclude)
+models/yolov8*.pt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VSCode and PyCharm
+.vscode/
+.idea/
+
+# Output images
+*.png
+*.jpg
+*.jpeg
+
+# Matplotlib figures
+*.pdf
+*.svg
