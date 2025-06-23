@@ -32,7 +32,10 @@ Puedes revisar el código fuente completo en el siguiente repositorio:
 
 Además, puedes ver una demostración en video del sistema en funcionamiento aquí:
 
-[Video de demostración (compartido en Google Drive)](https://drive.google.com/file/d/1i87PGUzJUiaLVMX2s_pHS92-vfLvTRly/view?usp=sharing)
+[Video de demostración (compartido en Google Drive)](https://drive.google.com/file/d/1i87PGUzJUiaLVMX2s_pHS92-vfLvTRly/view)
+
+[![Video de demostración (compartido en Google Drive)](screenshots/demo-thumbnail.png)](https://drive.google.com/file/d/1i87PGUzJUiaLVMX2s_pHS92-vfLvTRly/view)
+
 
 ## 1. Objetivo de la tarea
 
