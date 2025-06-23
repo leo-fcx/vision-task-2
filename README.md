@@ -34,8 +34,6 @@ Además, puedes ver una demostración en video del sistema en funcionamiento aqu
 
 [Video de demostración (compartido en Google Drive)](https://drive.google.com/file/d/1i87PGUzJUiaLVMX2s_pHS92-vfLvTRly/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/1i87PGUzJUiaLVMX2s_pHS92-vfLvTRly/preview" width="640" height="480" allow="autoplay"></iframe>
-
 ## 1. Objetivo de la tarea
 
 Aplicar técnicas de visión por computadora para detectar objetos genéricos (teléfonos celulares) utilizando un modelo preentrenado de detección (YOLO), y posteriormente realizar una segunda etapa de clasificación para identificar subclases personalizadas (por ejemplo: marcas o tipos de teléfono celular) usando TensorFlow.
